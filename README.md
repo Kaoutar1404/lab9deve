@@ -64,7 +64,7 @@ VALUES
 
 
 
-https://github.com/user-attachments/assets/583ac7ec-0242-433f-ab94-2ac3d0f3f6f3
+
 
 <img width="811" height="242" alt="database" src="https://github.com/user-attachments/assets/bb3f9a84-242a-4e5f-a982-b35d19d81ac8" />
 
@@ -489,8 +489,9 @@ D/ETUDIANT: Etudiant{id=2, nom='SAFI', prenom='Amine', ville='Marrakech', sexe='
 
 https://github.com/user-attachments/assets/b39df2f6-5db9-443e-a9ad-44dbde53f7dc
 
+Apres 
+<img width="494" height="138" alt="apressuppr" src="https://github.com/user-attachments/assets/9abf6619-a415-42f3-8e7b-1e18a101a7a3" />
 
-> 📹 *Une vidéo de démonstration complète du laboratoire est disponible — elle couvre l'installation de XAMPP, la création des services PHP, les tests via ARC, et l'intégration Android.*
 
 ---
 
