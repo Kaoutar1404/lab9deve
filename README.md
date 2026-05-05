@@ -60,6 +60,15 @@ VALUES
   ('Lachgar', 'Mohamed', 'Rabat',     'homme'),
   ('Safi',    'Amine',   'Marrakech', 'homme');
 ```
+<img width="959" height="499" alt="xamp" src="https://github.com/user-attachments/assets/75af52ae-9039-45d3-adfa-82ef74628f5a" />
+
+
+
+https://github.com/user-attachments/assets/583ac7ec-0242-433f-ab94-2ac3d0f3f6f3
+
+<img width="811" height="242" alt="database" src="https://github.com/user-attachments/assets/bb3f9a84-242a-4e5f-a982-b35d19d81ac8" />
+
+
 
 > 💜 La table `Etudiant` stocke : un identifiant auto-incrémenté, le nom, le prénom, la ville et le sexe.
 
@@ -476,6 +485,10 @@ D/ETUDIANT: Etudiant{id=2, nom='SAFI', prenom='Amine', ville='Marrakech', sexe='
 ---
 
 ## 🎬 Démonstration vidéo
+
+
+https://github.com/user-attachments/assets/b39df2f6-5db9-443e-a9ad-44dbde53f7dc
+
 
 > 📹 *Une vidéo de démonstration complète du laboratoire est disponible — elle couvre l'installation de XAMPP, la création des services PHP, les tests via ARC, et l'intégration Android.*
 
